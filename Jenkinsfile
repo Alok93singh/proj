@@ -1,4 +1,4 @@
-@Library('testlib') _ // Load the shared library named 'my-shared-library'
+@Library('testlib@1.0') _ // Load the shared library named 'my-shared-library'
 
 
 

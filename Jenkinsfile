@@ -112,7 +112,7 @@ pipeline{
         //            dockerImageCleanup("${params.ImageName}","${params.ImageTag}","${params.DockerHubUser}")
         //        }
         //     }
-        }      
+        // }      
     }
 }
 

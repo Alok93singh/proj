@@ -3,10 +3,6 @@
 // @Library('testlib') _ // Load the shared library named 'my-shared-library'
 
 
-
-
-@Library('my-shared-library') _
-
 pipeline{
 
     agent any
